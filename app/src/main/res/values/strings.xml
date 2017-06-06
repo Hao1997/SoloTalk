@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Solo Talk</string>
+    <string name="drawer_title1">Object1</string>
+    <string name="drawer_title2">Object2</string>
+    <string name="drawer_title3">Object3</string>
+    <string name="drawer_title4">Object4</string>
+    <string name="drawer_title5">Object5</string>
+</resources>
