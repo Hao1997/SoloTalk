@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">Solo Talk</string>
-    <string name="drawer_title1">Object1</string>
-    <string name="drawer_title2">Object2</string>
-    <string name="drawer_title3">Object3</string>
-    <string name="drawer_title4">Object4</string>
-    <string name="drawer_title5">Object5</string>
+    <string name="menu_listen">Listen</string>
+    <string name="menu_record">Record</string>
+    <string name="menu_setting">Settings</string>
+    <string name="menu_history">History</string>
+    <string name="menu_schedule">Schedule</string>
+    <string name = "menu_subtitle">View</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
 </resources>
