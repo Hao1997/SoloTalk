@@ -96,65 +96,6 @@ public abstract class DrawerActivityCustom extends AppCompatActivity {
             super.onBackPressed();
         }
     }
-//    public void setUpNavigationBar(){
-//        final Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//        setSupportActionBar(toolbar);
-//        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-//
-////        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
-////        getSupportActionBar().setHomeButtonEnabled(true);
-//
-//        AccountHeader headerResult;
-//        headerResult = new AccountHeaderBuilder()
-//                .withActivity(this)
-//                .withHeaderBackground(R.color.md_black_1000)
-//                .addProfiles(
-//                        new ProfileDrawerItem().withName("SoloTalk").withEmail("Solo@gmail.com").withIcon(getResources().getDrawable(R.mipmap.solo_logo))
-//                )
-//                .withOnAccountHeaderListener(new AccountHeader.OnAccountHeaderListener() {
-//                    @Override
-//                    public boolean onProfileChanged(View view, IProfile profile, boolean currentProfile) {
-//                        return false;
-//                    }
-//                })
-//                .build();
-//
-//        DrawerBuilder builder = new DrawerBuilder()
-//                .withActivity(this)
-//                .withToolbar(toolbar)
-//                .withTranslucentStatusBar(false)
-//                .withDrawerLayout(R.layout.drawer_custom)
-//                .withAccountHeader(headerResult)
-//                .addDrawerItems(
-//                        new PrimaryDrawerItem().withIcon(R.mipmap.listen_icon).withName(R.string.menu_listen).withTextColor(Color.WHITE),
-//                        new PrimaryDrawerItem().withIcon(R.mipmap.record_icon).withName(R.string.menu_record).withTextColor(R.color.material_drawer_background),
-//                        new PrimaryDrawerItem().withIcon(R.mipmap.schedule_icon).withName(R.string.menu_schedule).withTextColor(R.color.material_drawer_background),
-//                        new PrimaryDrawerItem().withIcon(R.mipmap.history_icon).withName(R.string.menu_history).withTextColor(R.color.material_drawer_background),
-//                        new PrimaryDrawerItem().withIcon(R.mipmap.settings_icon).withName(R.string.menu_setting).withTextColor(R.color.material_drawer_background)
-//
-//                )
-//                .withOnDrawerItemClickListener(new Drawer.OnDrawerItemClickListener() {
-//                    @Override
-//                    public boolean onItemClick(AdapterView<?> parent, View view, int position, long id, IDrawerItem drawerItem) {
-//
-//                        if (drawerItem != null) {
-//                            if (drawerItem instanceof Nameable) {
-//                                toolbar.setTitle(((Nameable)
-//                                        drawerItem).getNameRes());
-//                            }
-//                        }
-//
-//                        return false;
-//
-//                    }
-//                });
-//
-//
-//
-//        Drawer drawer = builder.build();
-//    }
-
-
 
 }
 
