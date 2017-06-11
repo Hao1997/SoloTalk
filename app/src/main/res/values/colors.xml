@@ -4,4 +4,7 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="material_drawer_background">#F9F9F9</color>
+    <color name="primaryColor">#000000</color>
+    <color name="secondaryColor">#d80000</color>
+    <color name="teitaryColor">#ffffff</color>
 </resources>

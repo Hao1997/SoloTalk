@@ -6,22 +6,22 @@
     tools:context=".HomePage">
 
 
-    <android.support.v7.widget.Toolbar
-    android:id="@+id/toolbar"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="#BD601B"
-    android:elevation="4dp"
-    android:minHeight="?attr/actionBarSize"
-    android:transitionName="actionBar"
-    style="@style/HeaderBar"
-    app:theme="@style/ActionBarThemeOverlay"
-    app:popupTheme="@style/ActionBarPopupThemeOverlay"
-    />
+    <!--<android.support.v7.widget.Toolbar-->
+    <!--android:id="@+id/toolbar"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#000000"-->
+    <!--android:elevation="4dp"-->
+    <!--android:minHeight="?attr/actionBarSize"-->
+    <!--android:transitionName="actionBar"-->
+    <!--style="@style/HeaderBar"-->
+    <!--app:theme="@style/ActionBarThemeOverlay"-->
+    <!--app:popupTheme="@style/ActionBarPopupThemeOverlay"-->
+    <!--/>-->
 
 
     <Button
-        android:text="Test"
+        android:text="Tested"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"

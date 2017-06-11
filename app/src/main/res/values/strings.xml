@@ -5,6 +5,7 @@
     <string name="menu_setting">Settings</string>
     <string name="menu_history">History</string>
     <string name="menu_schedule">Schedule</string>
+    <string name = "menu_subtitle">View</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
